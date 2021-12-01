@@ -1,5 +1,10 @@
 # Unity week 5: Two-dimensional scene-building and path-finding
 
+
+https://ariel-gamers.itch.io/generation
+
+generation changed to be BinarySpacePartition
+
 A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
 and how to do path-finding using the BFS algorithm.
 
